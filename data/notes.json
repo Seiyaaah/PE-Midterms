@@ -1,0 +1,137 @@
+{
+  "sports_foundation": {
+    "id": "1",
+    "title": "P.E. Midterm Reviewer & Study Guide",
+    "summary": "A clean, well-organized, and easily readable study guide compiled directly from source notes covering sports history, classifications, terminologies, Philippine sports management, athletic meet objectives, and game officials.",
+    "sections": [
+      {
+        "heading": "1. Sports in Primitive Times & Ancient History",
+        "paragraphs": [
+          "Physical education historians believe primitive humans engaged in gymnastics-related activities such as tumbling, jumping, swimming, and group acrobatics early in history across various regions."
+        ],
+        "list": [
+          "Ancient China (c. 4000 BC): Artifacts suggest early participation in organized sporting activities.",
+          "Ancient Egypt: Pharaoh monuments show that swimming, fishing, javelin throwing, high jump, and wrestling were well-developed and regulated thousands of years ago.",
+          "Ancient Persia: Focused primarily on combative sports linked to military skills, such as the traditional Iranian martial art of Zurkhaneh.",
+          "Ancient Greece & The Olympic Games - 776 BC: The Greeks founded the first Olympic Games as a festival dedicated to Zeus.",
+          "Ancient Greece & The Olympic Games - 394 AD: The ancient games ended due to financial corruption.",
+          "Ancient Greece & The Olympic Games - Gymnastics Addition: Gymnastics routines were integrated into the Olympics, encompassing boxing, throwing, jumping, track and field, and weightlifting (which later separated into individual sports).",
+          "Ancient Greece & The Olympic Games - Resurgence: After ending in 394 AD, the games did not reappear in public arenas until the 16th century."
+        ]
+      },
+      {
+        "heading": "2. Classifications of Sports",
+        "paragraphs": [
+          "Sports are classified according to player composition, general categorization, and specific individual and dual sports examples."
+        ],
+        "list": [
+          "A. According to Player Composition - 1. Individual Sports: Consists of a single player competing against an opponent.",
+          "A. According to Player Composition - 2. Dual Sports: Consists of a duo/pair competing against another duo/pair.",
+          "A. According to Player Composition - 3. Team Sports: Consists of three or more players per team.",
+          "B. General Categorization - Athletics: Running, jumping, and throwing events.",
+          "B. General Categorization - Ball Sports: Basketball, volleyball.",
+          "B. General Categorization - Club-and-Ball Sports: Golf.",
+          "B. General Categorization - Cue Sports: Billiards.",
+          "B. General Categorization - Combat Sports: Taekwondo, Karatedo, Boxing, Wrestling.",
+          "B. General Categorization - Dance Sport: Standard and Latin dance sports.",
+          "B. General Categorization - Extreme Sports: BMX, Motocross.",
+          "B. General Categorization - Gymnastics: Artistic and rhythmic gymnastics.",
+          "B. General Categorization - Mind Sports: Chess.",
+          "B. General Categorization - Racket Sports: Badminton, Table Tennis.",
+          "B. General Categorization - Riding Sports: Equestrian.",
+          "B. General Categorization - Shooting & Target Sports: Gun shooting.",
+          "B. General Categorization - Water Sports: Swimming.",
+          "B. General Categorization - Weight Sports: Weightlifting.",
+          "B. General Categorization - Winter Sports: Figure/Ice Skating.",
+          "B. General Categorization - Wheels Sports: Cycling.",
+          "C. Examples of Individual and Dual Sports: Archery, Arnis, Athletics, Bodybuilding, Badminton, Billiards, Boxing, Bowling, Diving, Chess, Cycling, Dance Sport, Darts, Equestrian, Fencing, Figure Skating, Golf, Gymnastics, Judo, Karatedo, Lawn Tennis, Motor Sports, Muay Thai, Shooting, Skateboarding, Skiing, Sepak Takraw, Snowboarding, Squash, Surfing, Swimming, Table Tennis, Taekwondo, Triathlon, Weightlifting, Wrestling."
+        ]
+      },
+      {
+        "heading": "3. Key Sports Terminologies",
+        "paragraphs": [],
+        "list": [
+          "Athletes: The players participating in sports.",
+          "Athletics: Organized, highly structured, competitive activities involving skilled individuals.",
+          "Coach: The formal authority figure within a team.",
+          "Competition: A competitive sports event or tournament.",
+          "Court: The physical facility or venue where games are played.",
+          "Equipment: Heavy, well-built materials used in a sport.",
+          "Exercise: Physical activity intended to participate, strengthen, or condition.",
+          "Game: A match governed by rules and regulations; can also refer to non-sport recreational activities (e.g., card games, internet games).",
+          "Leisure: Available time free from work, obligations, and responsibilities.",
+          "Match: The entire game characterized by number, time, and order.",
+          "Official: Individual or group holding full jurisdiction over the game.",
+          "Play: Amusement engaged in for fun; non-utilitarian with unpredictable outcomes.",
+          "Riot (Hooliganism): Violence in sports reflecting negative fan or player attitudes.",
+          "Set: A specific partition of a match.",
+          "Sportsmanship: An attitude prioritizing fair play, courtesy, ethical behavior, integrity, and grace in victory or defeat.",
+          "Supplies: Consumable materials that require periodic replacement (e.g., racquets, balls).",
+          "Team Captain: The designated player in charge of leading co-team members.",
+          "Trainer: The instructor who teaches drills and skills.",
+          "Uniform: Player clothing including shoes and mandatory accessories."
+        ]
+      },
+      {
+        "heading": "4. Organization & Management of Sports in the Philippines",
+        "paragraphs": [
+          "The organization and management of sports in the Philippines are governed by legal foundations, specific levels of competition, and a hierarchy of athletic events."
+        ],
+        "list": [
+          "A. Legal Foundations - Republic Act No. 3138 (Sports Federation Law): Mandated that Philippine sports be governed by an autonomous national association with exclusive promotion control.",
+          "A. Legal Foundations - Presidential Decree 604: Created the Ministry of Youth and Sports Development (MYSD). It authorized the Ministry of Education and Culture (now DepEd) to implement programs for youth, physical fitness, and sports.",
+          "A. Legal Foundations - Executive Order No. 590: Issued by Pres. Ferdinand Marcos to transfer sports event management from barangay levels up to national meets under MYSD to elevate national sports quality (Palaro).",
+          "B. Levels of Competition - 1. Amateur: Popular sports where participants represent a locality as ambassadors in structured games (e.g., National Games, SEA Games, Asian Games, Olympics).",
+          "B. Levels of Competition - 2. Professional: Profitable sports elevated to commercial entertainment (e.g., Manny Pacquiao in boxing, Michael Jordan in basketball).",
+          "C. Hierarchy of Athletic Competitions - 1. Intramural Athletic Program: Competitions within the walls of a single school.",
+          "C. Hierarchy of Athletic Competitions - 2. Play Days: Community gatherings encouraging mass participation in stunts, games, and dances.",
+          "C. Hierarchy of Athletic Competitions - 3. Dual Meets: Competitions between two schools or two districts.",
+          "C. Hierarchy of Athletic Competitions - 4. Integrated Meets: Competitions combining public and private schools within a district.",
+          "C. Hierarchy of Athletic Competitions - 5. Regional Meet: Competitions between different school divisions within a region.",
+          "C. Hierarchy of Athletic Competitions - 6. Palarong Pambansa: The national championship between all 17 Philippine regions (including CAR and NCR)."
+        ]
+      },
+      {
+        "heading": "5. Athletic Meet Objectives & Personal Roles",
+        "paragraphs": [
+          "Athletic meets are designed with specific developmental objectives alongside defined qualities for leaders, followers, and players."
+        ],
+        "list": [
+          "A. Objectives of an Athletic Meet - 1. Develop physical skills among potential athletes.",
+          "A. Objectives of an Athletic Meet - 2. Foster self-discipline, social maturity, emotional stability, and good sportsmanship.",
+          "A. Objectives of an Athletic Meet - 3. Educate the public regarding competitive sports.",
+          "A. Objectives of an Athletic Meet - 4. Promote health and constructive use of leisure time.",
+          "A. Objectives of an Athletic Meet - 5. Provide opportunities for social interaction among athletes.",
+          "A. Objectives of an Athletic Meet - 6. Build leadership and followership skills.",
+          "B. Qualities of Leaders, Followers, & Players - Good Leader: Shows sportsmanship, supports teammates, respects opponents, handles victory or defeat gracefully, knows all rules/limits, and stays patient with struggling teammates.",
+          "B. Qualities of Leaders, Followers, & Players - Good Follower: Recognizes every member's value, follows leader suggestions, expresses opinions courteously, cooperates, and makes sacrifices for group success.",
+          "B. Qualities of Leaders, Followers, & Players - Outstanding Player Traits (Psychological): High drive to succeed, motivation to improve skills/fitness, dedication to practice, alertness, competitive spirit, enthusiasm, self-control, industriousness, and good judgment.",
+          "B. Qualities of Leaders, Followers, & Players - Outstanding Player Traits (Physiological - Physical Size & Quickness): Essential baseline advantages.",
+          "B. Qualities of Leaders, Followers, & Players - Outstanding Player Traits (Physiological - Strength): Developed via weight training or overload exercises.",
+          "B. Qualities of Leaders, Followers, & Players - Outstanding Player Traits (Physiological - Power): Developed by using strength through a full range of motion with proper mechanics.",
+          "B. Qualities of Leaders, Followers, & Players - Outstanding Player Traits (Physiological - Endurance): Developed through repeated exercise repetitions.",
+          "B. Qualities of Leaders, Followers, & Players - Outstanding Player Traits (Physiological - Flexibility): Improved through static stretching; aids maneuvering, rebounding, and injury prevention."
+        ]
+      },
+      {
+        "heading": "6. Game Officials & Their Roles",
+        "paragraphs": [
+          "Various game officials hold specific responsibilities and jurisdiction during sports competitions."
+        ],
+        "list": [
+          "1. Referee - Directs the game with final decision-making authority.",
+          "1. Referee - Holds complete authority over all players and officials.",
+          "1. Referee - Settles unwritten game scenarios and penalizes rule violations.",
+          "2. Umpire - Decides center line crossing violations.",
+          "2. Umpire - Tracks official time-outs.",
+          "2. Umpire - Controls coach conduct and starting positions.",
+          "2. Umpire - Authorizes substitutions upon team captain request.",
+          "2. Umpire - Flags unsportsmanlike behavior and illegal body contact to the referee.",
+          "3. Scorer - Stationed opposite the referee and behind the umpire.",
+          "3. Scorer - Records official scores, time-outs, and substitution logs.",
+          "4. Linesmen - Monitors boundary lines (sidelines and end lines) on assigned field/court sides."
+        ]
+      }
+    ]
+  }
+}
